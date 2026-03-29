@@ -28,20 +28,20 @@
 <h3>🌐 Connect with Me</h3>
 
 <p align="left">
-  <a href="https://github.com/your-github-username">
+  <a href="https://github.com/KeerthanaaSeekumarr">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/keerthana-n-2ofe">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:keerthanapalakkaparambil@gmail.com">
     <img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge" />
   </a>
 </p>
 
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile Visit"/>
+  <img src="https://komarev.com/ghpvc/?username=KeerthanaaSeekumarr&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
@@ -143,7 +143,7 @@ Includes hands-on labs, attack simulations, and real-world case studies.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=your-github-username&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=KeerthanaaSeekumarr&theme=dark&hide_border=true" />
 </div>
 
 ---
